@@ -1,0 +1,12 @@
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Domain.Models\bin\Debug\ExamenVueling.Domain.Models.dll
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Domain.Models\bin\Debug\ExamenVueling.Domain.Models.pdb
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Domain.Models\obj\Debug\ExamenVueling.Domain.Models.csprojAssemblyReference.cache
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Domain.Models\obj\Debug\ExamenVueling.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Domain.Models\obj\Debug\ExamenVueling.Domain.Models.dll
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Domain.Models\obj\Debug\ExamenVueling.Domain.Models.pdb
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Domain.Models\bin\Debug\ExamenVueling.Domain.Models.dll
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Domain.Models\bin\Debug\ExamenVueling.Domain.Models.pdb
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Domain.Models\obj\Debug\ExamenVueling.Domain.Models.csprojAssemblyReference.cache
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Domain.Models\obj\Debug\ExamenVueling.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Domain.Models\obj\Debug\ExamenVueling.Domain.Models.dll
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Domain.Models\obj\Debug\ExamenVueling.Domain.Models.pdb

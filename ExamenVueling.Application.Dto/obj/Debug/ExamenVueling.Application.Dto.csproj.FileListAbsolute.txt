@@ -1,0 +1,12 @@
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Application.Dto\bin\Debug\ExamenVueling.Application.Dto.dll
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Application.Dto\bin\Debug\ExamenVueling.Application.Dto.pdb
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Application.Dto\obj\Debug\ExamenVueling.Application.Dto.csprojAssemblyReference.cache
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Application.Dto\obj\Debug\ExamenVueling.Application.Dto.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Application.Dto\obj\Debug\ExamenVueling.Application.Dto.dll
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Application.Dto\obj\Debug\ExamenVueling.Application.Dto.pdb
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Application.Dto\bin\Debug\ExamenVueling.Application.Dto.dll
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Application.Dto\bin\Debug\ExamenVueling.Application.Dto.pdb
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Application.Dto\obj\Debug\ExamenVueling.Application.Dto.csprojAssemblyReference.cache
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Application.Dto\obj\Debug\ExamenVueling.Application.Dto.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Application.Dto\obj\Debug\ExamenVueling.Application.Dto.dll
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Application.Dto\obj\Debug\ExamenVueling.Application.Dto.pdb

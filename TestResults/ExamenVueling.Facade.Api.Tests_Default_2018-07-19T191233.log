@@ -1,0 +1,83 @@
+﻿2018-07-19T19:12:33.5683502+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-07-19T19:12:33.6962710+02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-07-19T19:12:33.6962710+02:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Facade.Api.Tests\bin\Debug\ExamenVueling.Facade.Api.Tests.dll
+2018-07-19T19:12:33.6962710+02:00;VSTestExecutionThread;Info;Profile: Default
+2018-07-19T19:12:42.7738339+02:00;Thread#15;Info;Discovering target: Default
+2018-07-19T19:12:42.7738339+02:00;Thread#15;Info;Discovering tests from assembly: C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Facade.Api.Tests\bin\Debug\ExamenVueling.Facade.Api.Tests.dll
+Appdomain Disposed
+Test Suite Dump
+#0: ExamenVueling.Facade.Api.Tests/Default - 
+#1: Default - 
+#2: ExamenVueling.Facade.Api.Tests - 
+#3: AlumnoApiController - 
+#4: Add alumn - TestAssembly:ExamenVueling.Facade.Api.Tests/Feature:AlumnoApiController/Scenario:Add+alumn
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for ExamenVueling.Facade.Api.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\formacion\source\repos\ExamenVueling\packages\SpecRun.Runner.1.7.2\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given Create AlumnDto
+Thread#0:T:done: AlumnoApiControllerSteps.GivenCreateAlumnDto() (0,0s)
+Thread#0:B:When Pass AlumnDto to method Add
+Thread#0:T:error: Referencia a objeto no establecida como instancia de un objeto.
+Thread#0:B:Then Compare the id
+Thread#0:T:skipped because of previous errors
+Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #4/0 is finished on thread #0 as Failed within 0,5776411 seconds
+Thread#0: Test #4/1 is started on thread #0
+Thread#0:B:Given Create AlumnDto
+Thread#0:T:done: AlumnoApiControllerSteps.GivenCreateAlumnDto() (0,0s)
+Thread#0:B:When Pass AlumnDto to method Add
+Thread#0:T:error: Referencia a objeto no establecida como instancia de un objeto.
+Thread#0:B:Then Compare the id
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #4/1 is finished on thread #0 as Failed within 0,0029974 seconds
+Thread#0: Test #4/2 is started on thread #0
+Thread#0:B:Given Create AlumnDto
+Thread#0:T:done: AlumnoApiControllerSteps.GivenCreateAlumnDto() (0,0s)
+Thread#0:B:When Pass AlumnDto to method Add
+Thread#0:T:error: Referencia a objeto no establecida como instancia de un objeto.
+Thread#0:B:Then Compare the id
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #4/2 is finished on thread #0 as Failed within 0,0039984 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1 (test executions: 3)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1

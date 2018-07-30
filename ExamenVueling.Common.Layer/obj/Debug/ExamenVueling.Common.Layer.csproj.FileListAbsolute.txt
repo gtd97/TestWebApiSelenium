@@ -1,0 +1,11 @@
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Common.Layer\bin\Debug\ExamenVueling.Common.Layer.dll
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Common.Layer\bin\Debug\ExamenVueling.Common.Layer.pdb
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Common.Layer\obj\Debug\ExamenVueling.Common.Layer.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Common.Layer\obj\Debug\ExamenVueling.Common.Layer.dll
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Common.Layer\obj\Debug\ExamenVueling.Common.Layer.pdb
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Common.Layer\bin\Debug\ExamenVueling.Common.Layer.dll
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Common.Layer\bin\Debug\ExamenVueling.Common.Layer.pdb
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Common.Layer\obj\Debug\ExamenVueling.Common.Layer.csprojAssemblyReference.cache
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Common.Layer\obj\Debug\ExamenVueling.Common.Layer.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Common.Layer\obj\Debug\ExamenVueling.Common.Layer.dll
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Common.Layer\obj\Debug\ExamenVueling.Common.Layer.pdb

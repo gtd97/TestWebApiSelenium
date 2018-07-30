@@ -1,0 +1,58 @@
+c:\users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Infrastructure.Repository.dll.config
+c:\users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Infrastructure.Repository.dll
+c:\users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Infrastructure.Repository.pdb
+c:\users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\EntityFramework.dll
+c:\users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Infrastructure.Repository.Contracts.dll
+c:\users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Infrastructure.Repository.Contracts.pdb
+c:\users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\EntityFramework.xml
+c:\users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\obj\Debug\ExamenVueling.Infrastructure.Repository.csprojAssemblyReference.cache
+c:\users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\obj\Debug\ExamenVueling.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+c:\users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\obj\Debug\ExamenVueling.Infrastructure.Repository.csproj.CopyComplete
+c:\users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\obj\Debug\ExamenVueling.Infrastructure.Repository.dll
+c:\users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\obj\Debug\ExamenVueling.Infrastructure.Repository.pdb
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Domain.Models.dll
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Domain.Models.pdb
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Common.Layer.dll
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Common.Layer.pdb
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\obj\Debug\ExamenVueling.Infrastructure.Repository.ResourceMessage.resources
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\obj\Debug\ExamenVueling.Infrastructure.Repository.csproj.GenerateResource.cache
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\AutoMapper.dll
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Application.Dto.dll
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Application.Dto.pdb
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\AutoMapper.pdb
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\AutoMapper.xml
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\log4net.dll
+C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\log4net.xml
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Infrastructure.Repository.dll.config
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Infrastructure.Repository.dll
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Infrastructure.Repository.pdb
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\AutoMapper.dll
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\EntityFramework.dll
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Application.Dto.dll
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Common.Layer.dll
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Domain.Models.dll
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Infrastructure.Repository.Contracts.dll
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\log4net.dll
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Application.Dto.pdb
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Common.Layer.pdb
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Domain.Models.pdb
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\ExamenVueling.Infrastructure.Repository.Contracts.pdb
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\AutoMapper.pdb
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\AutoMapper.xml
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\EntityFramework.xml
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\log4net.xml
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\obj\Debug\ExamenVueling.Infrastructure.Repository.csprojAssemblyReference.cache
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\obj\Debug\ExamenVueling.Infrastructure.Repository.ResourceMessage.resources
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\obj\Debug\ExamenVueling.Infrastructure.Repository.csproj.GenerateResource.cache
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\obj\Debug\ExamenVueling.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\obj\Debug\ExamenVueling.Infrastructure.Repository.csproj.CopyComplete
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\obj\Debug\ExamenVueling.Infrastructure.Repository.dll
+C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Infrastructure.Repository\obj\Debug\ExamenVueling.Infrastructure.Repository.pdb

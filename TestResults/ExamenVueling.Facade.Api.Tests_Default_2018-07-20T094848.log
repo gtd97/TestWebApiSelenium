@@ -1,0 +1,64 @@
+﻿2018-07-20T09:48:48.0691617+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-07-20T09:48:48.2150721+02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-07-20T09:48:48.2160723+02:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Facade.Api.Tests\bin\Debug\ExamenVueling.Facade.Api.Tests.dll
+2018-07-20T09:48:48.2160723+02:00;VSTestExecutionThread;Info;Profile: Default
+2018-07-20T09:48:56.2817079+02:00;Thread#14;Info;Discovering target: Default
+2018-07-20T09:48:56.2817079+02:00;Thread#14;Info;Discovering tests from assembly: C:\Users\formacion\source\repos\ExamenVueling\ExamenVueling.Facade.Api.Tests\bin\Debug\ExamenVueling.Facade.Api.Tests.dll
+Appdomain Disposed
+Test Suite Dump
+#0: ExamenVueling.Facade.Api.Tests/Default - 
+#1: Default - 
+#2: ExamenVueling.Facade.Api.Tests - 
+#3: AlumnoApiController - 
+#4: Add alumn - TestAssembly:ExamenVueling.Facade.Api.Tests/Feature:AlumnoApiController/Scenario:Add+alumn
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for ExamenVueling.Facade.Api.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\formacion\source\repos\ExamenVueling\packages\SpecRun.Runner.1.7.2\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given Create AlumnDto
+Thread#0:T:done: AlumnoApiControllerSteps.GivenCreateAlumnDto() (0,0s)
+Thread#0:B:When Pass AlumnDto to method Add
+Thread#0:T:error: Referencia a objeto no establecida como instancia de un objeto.
+Thread#0:B:Then Compare the id
+Thread#0:T:skipped because of previous errors
+Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #4/0 is finished on thread #0 as Failed within 0,5697295 seconds
+Thread#0: Test #4/1 is started on thread #0
+Thread#0:B:Given Create AlumnDto
+Thread#0:T:done: AlumnoApiControllerSteps.GivenCreateAlumnDto() (0,0s)
+Thread#0:B:When Pass AlumnDto to method Add
+Thread#0:T:error: Referencia a objeto no establecida como instancia de un objeto.
+Thread#0:B:Then Compare the id
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #4/1 is finished on thread #0 as Failed within 0,0029992 seconds
+Thread#0: Test #4/2 is started on thread #0
+Thread#0:B:Given Create AlumnDto
+Thread#0:T:done: AlumnoApiControllerSteps.GivenCreateAlumnDt

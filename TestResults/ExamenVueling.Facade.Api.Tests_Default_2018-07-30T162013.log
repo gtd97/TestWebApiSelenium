@@ -1,0 +1,23 @@
+﻿2018-07-30T16:20:13.7415316+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-07-30T16:20:13.8625924+02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-07-30T16:20:13.8625924+02:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Facade.Api.Tests\bin\Debug\ExamenVueling.Facade.Api.Tests.dll
+2018-07-30T16:20:13.8625924+02:00;VSTestExecutionThread;Info;Profile: Default
+2018-07-30T16:20:26.9349862+02:00;Thread#16;Info;Discovering target: Default
+2018-07-30T16:20:26.9349862+02:00;Thread#16;Info;Discovering tests from assembly: C:\Users\formacion\source\repos\Carpeta - Selenium\ExamenVueling\ExamenVueling.Facade.Api.Tests\bin\Debug\ExamenVueling.Facade.Api.Tests.dll
+Appdomain Disposed
+Test Suite Dump
+#0: ExamenVueling.Facade.Api.Tests/Default - 
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 0
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
